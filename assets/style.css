@@ -276,3 +276,13 @@ h2 {
 .unpaid .item__percentage { box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.1); }
 .unpaid:hover .item__description { font-weight: 900; }
 
+#clearbutton {
+    background-color: #FF5049;
+    border: none;
+    color: white;
+    margin: 5px 3px;
+    padding: 16px 32px;
+    font-size: 18px;
+    text-align: center;
+    display: inline-block;
+}
